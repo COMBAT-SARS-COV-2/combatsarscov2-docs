@@ -67,16 +67,11 @@ Note that on the New Project form, the *Project Organism* drop down uses a limit
 Watch [this video](https://www.youtube.com/watch?v=_b-A-trnMe8) for an introduction to creating a project and manually adding samples. Manually adding samples is a time consuming process, for high throughput work you will normally want to use the
 [irida command line uploader](LINK COMING) to load data into the workbench.
 
-As an alternative to manually adding In the *Settings* part of the New Project form, the *Add samples in cart to project* provides an easy way to move samples between projects when you are creating a new project. Just select an existing project that, add samples to the Shopping Cart and then create a new project using these samples. (You need to have *Manager* access level to the project to be able to copy samples like this)
+As an alternative to manually adding samples is copying samples from existing projects. Before creating a new proejct select an existing project and add from this project samples to the Shopping Cart. (You need to have *Manager* access level to the project to be able to copy samples like this) Then, when creating a new project, in the *Settings* part of the New Project form, there is a checkbox, *Add samples in cart to project*. When this is selected, all the samples that are currently in the Shopping Cart will be copied to the new project (along with their metadata.).
 
 ### Reference data
 
 Each project needs at least one reference genome associated with it. To add a reference genome, from the Project view select *Settings* and then *Reference Files*. Then click or drag to upload a file to the project. For SARS-CoV-2 the [NC_045512.2 Wuhan Hu-1](https://www.ncbi.nlm.nih.gov/nuccore/1798174254) reference sequence is most commonly used.
-
-
-As mentioned before, you can also import samples from existing projects to new ones.
-
-
 
 ## Running analyses using the Workbench
 
