@@ -1,5 +1,7 @@
 # Documentation for the COMBAT-SARS-CoV-2 Workbench
 
+The site built from these docs is on [Read The Docs](https://combat-sars-cov-2.readthedocs.io/en/latest/)
+
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
