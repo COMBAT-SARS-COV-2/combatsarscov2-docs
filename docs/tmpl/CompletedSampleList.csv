@@ -1,0 +1,5 @@
+[Data],,,
+Sample_Name,Project_ID,File_Forward,File_Reverse
+SAMP1,8,SAMP1_1.fastq.gz,SAMP1_2.fastq.gz
+SAMP2,8,SAMP2_1.fastq.gz,SAMP2_2.fastq.gz
+SAMP3,8,SAMP3_1.fastq.gz,SAMP3_2.fastq.gz
